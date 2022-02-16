@@ -12,7 +12,7 @@ Link to demo
 
 
 https://mango-ocean-073322c10.1.azurestaticapps.net/index.html
-## Help
+## Source
 QnA maker,
 Azure Bot,
 Azure App service
